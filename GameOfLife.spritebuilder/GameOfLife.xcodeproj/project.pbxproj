@@ -403,8 +403,8 @@
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ARCHS = "$(ARCHS_STANDARD)";
 				CLANG_ENABLE_OBJC_ARC = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Jason Ash (J3Y7BK5BNC)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Jason Ash (J3Y7BK5BNC)";
 				COPY_PHASE_STRIP = NO;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -426,7 +426,7 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = GameOfLife;
-				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE = "799e7652-a0dc-4b8f-a1bc-290980850c44";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
