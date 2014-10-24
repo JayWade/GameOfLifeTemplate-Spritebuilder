@@ -10,7 +10,7 @@
 		<false/>
 	</dict>
 	<key>UUID</key>
-	<integer>20</integer>
+	<integer>21</integer>
 	<key>centeredOrigin</key>
 	<false/>
 	<key>currentResolution</key>
@@ -191,6 +191,8 @@
 						<string>Grid.ccb</string>
 					</dict>
 				</array>
+				<key>selected</key>
+				<true/>
 			</dict>
 			<dict>
 				<key>UUID</key>
@@ -372,7 +374,7 @@
 												<string>Text</string>
 												<key>value</key>
 												<array>
-													<string>
+													<string>0
 </string>
 													<false/>
 												</array>
@@ -555,9 +557,9 @@
 												<string>Position</string>
 												<key>value</key>
 												<array>
-													<real>0.5</real>
-													<real>40</real>
-													<integer>0</integer>
+													<real>0.51999998092651367</real>
+													<real>59</real>
+													<integer>1</integer>
 													<integer>2</integer>
 													<integer>0</integer>
 												</array>
@@ -581,7 +583,7 @@
 												<key>value</key>
 												<array>
 													<real>1</real>
-													<real>1</real>
+													<real>0.88551414012908936</real>
 													<false/>
 													<integer>0</integer>
 												</array>
@@ -593,7 +595,8 @@
 												<string>Text</string>
 												<key>value</key>
 												<array>
-													<string>Generations
+													<string>Generation
+
 </string>
 													<false/>
 												</array>
@@ -657,7 +660,7 @@
 												<key>type</key>
 												<string>IntegerLabeled</string>
 												<key>value</key>
-												<integer>1</integer>
+												<integer>0</integer>
 											</dict>
 											<dict>
 												<key>name</key>
@@ -665,7 +668,7 @@
 												<key>type</key>
 												<string>IntegerLabeled</string>
 												<key>value</key>
-												<integer>1</integer>
+												<integer>0</integer>
 											</dict>
 											<dict>
 												<key>name</key>
@@ -746,7 +749,7 @@
 									</dict>
 									<dict>
 										<key>UUID</key>
-										<integer>17</integer>
+										<integer>20</integer>
 										<key>baseClass</key>
 										<string>CCLabelTTF</string>
 										<key>children</key>
@@ -777,7 +780,7 @@
 												<key>value</key>
 												<array>
 													<real>0.5</real>
-													<real>58</real>
+													<real>54</real>
 													<integer>0</integer>
 													<integer>2</integer>
 													<integer>0</integer>
@@ -801,8 +804,8 @@
 												<string>ScaleLock</string>
 												<key>value</key>
 												<array>
-													<real>9.0175142288208008</real>
-													<real>1.355481743812561</real>
+													<real>1</real>
+													<real>1</real>
 													<false/>
 													<integer>0</integer>
 												</array>
@@ -814,7 +817,7 @@
 												<string>Text</string>
 												<key>value</key>
 												<array>
-													<string>
+													<string>0
 </string>
 													<false/>
 												</array>
@@ -1594,8 +1597,6 @@
 										</array>
 									</dict>
 								</array>
-								<key>selected</key>
-								<true/>
 							</dict>
 							<dict>
 								<key>UUID</key>
